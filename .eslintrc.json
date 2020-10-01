@@ -12,5 +12,6 @@
     },
     "rules": {
         //"no-unused-vars": "off" <<--- DO THIS TO TURN OFF RULE; Can either say "off" or 0 --->>
+        "no-console": 0
     }
 }
